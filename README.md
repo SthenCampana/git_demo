@@ -2,4 +2,4 @@
 Welcome to GitHub?
 
 ## Add your names here
-sthen
+Sthen Campana

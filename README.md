@@ -3,3 +3,4 @@ Welcome to GitHub?
 
 ## Add your names here
 Sthen Campana
+Miguel Guardado
